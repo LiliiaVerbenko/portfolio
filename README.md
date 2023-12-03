@@ -56,3 +56,9 @@ Python, SQL, Tableau, Excel, C++
 *Developed a prediction model for customer churn from electronic banking services using data mining.*
 
 
+## Skills
+- English
+- Chinese
+- Ukrainian
+- Russian
+
