@@ -58,11 +58,15 @@ Python, SQL, Tableau, Excel, C++
 - Examined trends in influenza and how they can be used to proactively plan for staffing needs across the country.
 
 ### 5. [GameCO](https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis)
-*Analysed Video game sales marketing.*
+*Analysed video game sales marketing.*
+- Performed a descriptive analysis of a video game data set.
+- Constructed results for allocating marketing budgets.
+  
 
 ### 6. [Pig E. Bank](https://github.com/LiliiaVerbenko/PigE-Bank)
 *Developed a prediction model for customer churn from electronic banking services using data mining.*
-
+- Identified leading indicators for customers likely to leave the bank.
+- Created a decision tree model
 
 ## Skills
 - English
