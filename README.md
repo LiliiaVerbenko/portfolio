@@ -89,7 +89,7 @@ Python, SQL, Tableau, Excel, C++
 1. [Excel Report](https://docs.google.com/spreadsheets/d/1d_s2nApQ_hfkFWQXpUTyPEiwo-iD0dRi/edit?usp=share_link&ouid=100642711360793746419&rtpof=true&sd=true)
 2. [Project Brief](https://drive.google.com/file/d/1Tgcc-wUDWjao13cy0ZZzu5xrkGb_BSGe/view?usp=share_link)
 
-## Skills
+## Languages
 - English
 - Chinese
 - Ukrainian
