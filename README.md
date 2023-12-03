@@ -13,19 +13,28 @@ Python, SQL, Tableau, Excel, C++
 
 ## Education
 - Data Analytics | CareerFoundry Data Analytics Bootcamp (_2022_)
-- Computer Science | University of South Africa (_February 2022 - Present_)
+- Computer Science | University of South Africa (_2022 - Present_)
 - Pharmaceutical Science | Shandong Medical University (_2012 - 2016_)
 
 ## Work Experience
 
-### Data Scientist @ Toyota Financial Services (_June 2022 - Present_)
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model resulting in a 50% improvement in model performance and saving 1 million dollars in potential losses
+### Product Manager Assistant @ Svitlotechnika LTD, Ukraine 
+Achievement: Reduced manual data extraction, increased data accuracy and standardised sales reports for product managers.
+- Analyzing customers and products sales data in IC.
+- Preparing data for bank financing based on sales and procurement forecasts.
+- Performing ABC analysis of warehouse stock data and making inventory recommendations.
 
-### Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)
-- Conducted data collection, processing, and analysis for a novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+### Granite and Marble Factory Manager @ Stone Slabs Marble and Granite, South Africa
+Achievement: Improved factory operations by introducing a system to record data, which lead to better decision making for the business.
+- Analyzing production data and planning allocation of labor, machinery, and materials resources.
+- Analyzing industry trends and market conditions to develop new products.
+- Identifying time-consuming and labor-intensive tasks, finding solutions to streamline production processes.
 
+### Chinese-speaking Administrative Assistant @ Dragon Oil Technologies Ukraine
+Achievement: Directed the negotiation process and established a cross- cultural partnership, resulting in the successful closure of the oil-well maintenance contract.
+- Analyzing government and company regulatory documents, ensuring compliance with legal standards and contractual obligations.
+- Enabling meetings and clear communication by facilitating real-time interpretation services between the headquarters and stakeholders.
+- Optimising and managing logistical arrangements and budget for foreign delegations.
 
 ## Projects
 ### 1. [Rockbuster](https://github.com/LiliiaVerbenko/Rockbuster-Stealth-Data-Analysis-Project)
