@@ -69,17 +69,26 @@ Python, SQL, Tableau, Excel, C++
 *Planned for the upcoming flu season.*
 - Performed statistical analysis in Excel adn identified the vulnerable populations at the highest risk.       
 - Examined trends in influenza and how they can be used to proactively plan for staffing needs across the country.
-
+1. [Final Report](https://drive.google.com/file/d/1IamjG-4XgkKnWt4g9Pt2TvMwOmGznwvH/view?usp=share_link)
+2. [Tableau Report](https://public.tableau.com/app/profile/liliia.verbenko/viz/ProjectPreparingforInfluenzaSeasoninUSA/ProjectPreparingforInfluenzaSeasoninUSA?publish=yes)
+3. [Video Presentation](https://screenpal.com/watch/c0it0kVkZOy)
+4. [Project Brief](https://drive.google.com/file/d/1uwZUbzygOUEJpoJmO1JTU_JYU4znL6JJ/view?usp=share_link)
+   
 ### 5. [GameCO](https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis)
 *Analysed video game sales marketing.*
 - Performed a descriptive analysis of a video game data set.
 - Constructed results for allocating marketing budgets.
-  
+1. [Excel Report]()
+2. [GitHub]()
+3. [Project Brief]()  
 
 ### 6. [Pig E. Bank](https://github.com/LiliiaVerbenko/PigE-Bank)
 *Developed a prediction model for customer churn from electronic banking services using data mining.*
 - Identified leading indicators for customers likely to leave the bank.
 - Created a decision tree model.
+1. [Excel Report]()
+2. [GitHub]()
+3. [Project Brief]()
 
 ## Skills
 - English
