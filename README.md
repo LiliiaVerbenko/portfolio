@@ -19,19 +19,19 @@ Python, SQL, Tableau, Excel, C++
 ## Work Experience
 
 ### Product Manager Assistant @ Svitlotechnika LTD, Ukraine 
-Achievement: Reduced manual data extraction, increased data accuracy and standardised sales reports for product managers.
+**Achievement:** Reduced manual data extraction, increased data accuracy and standardised sales reports for product managers.
 - Analyzing customers and products sales data in IC.
 - Preparing data for bank financing based on sales and procurement forecasts.
 - Performing ABC analysis of warehouse stock data and making inventory recommendations.
 
 ### Granite and Marble Factory Manager @ Stone Slabs Marble and Granite, South Africa
-Achievement: Improved factory operations by introducing a system to record data, which lead to better decision making for the business.
+**Achievement:** Improved factory operations by introducing a system to record data, which lead to better decision making for the business.
 - Analyzing production data and planning allocation of labor, machinery, and materials resources.
 - Analyzing industry trends and market conditions to develop new products.
 - Identifying time-consuming and labor-intensive tasks, finding solutions to streamline production processes.
 
 ### Chinese-speaking Administrative Assistant @ Dragon Oil Technologies Ukraine
-Achievement: Directed the negotiation process and established a cross- cultural partnership, resulting in the successful closure of the oil-well maintenance contract.
+**Achievement:** Directed the negotiation process and established a cross-cultural partnership, resulting in the successful closure of the oil-well maintenance contract.
 - Analyzing government and company regulatory documents, ensuring compliance with legal standards and contractual obligations.
 - Enabling meetings and clear communication by facilitating real-time interpretation services between the headquarters and stakeholders.
 - Optimising and managing logistical arrangements and budget for foreign delegations.
