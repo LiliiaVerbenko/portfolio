@@ -53,7 +53,7 @@ Python, SQL, Tableau, Excel, C++
 - Used Python to perform an initial data and exploratory analysis of Instacart data.
 - Analyzed order behavior of different customer groups and summarized analysis findings.
 1. [Excel Report](https://docs.google.com/spreadsheets/d/1BMyeGEwB8ocnKqBnC19ZC0QYJ8UOqo6K/edit?usp=share_link&ouid=100220627403487571764&rtpof=true&sd=true)
-2. [GitHub](https://docs.gortpof=true&sd=true](https://github.com/LiliiaVerbenko/Instacart-Grocery-Basket-Analysis)
+2. [GitHub](https://github.com/LiliiaVerbenko/Instacart-Grocery-Basket-Analysis)
 3. [Project Brief](https://drive.google.com/file/d/1W_w4zdCfp6Aeu03ao61OwtPP_ecN1iMS/view?usp=share_link)
   
 ### 3. [Global Education Disparities](https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis)
@@ -62,7 +62,7 @@ Python, SQL, Tableau, Excel, C++
 - Created time-series algorithms and dashboards in Tableau to visualize problematic countries and continents.
 1. [Tableau Report](https://docs.google.com/spreadsheets/d/1BMyeGEwB8ocnKqBnC19ZC0QYJ8UOqo6K/edit?usp=share_link&ouid=100220627403487571764&rtpof=true&sd=true)
 2. [GitHub](https://public.tableau.com/shared/9T8RH59QK?:display_count=n&:origin=viz_share_link)
-3. [Project Brief](https://aring](https://drive.google.com/file/d/1eWQMDtbBDGPzJNt3ns-Uq0h3BjYhy-Au/view?usp=sharing)
+3. [Project Brief](https://drive.google.com/file/d/1eWQMDtbBDGPzJNt3ns-Uq0h3BjYhy-Au/view?usp=sharing)
 
 
 ### 4. [Influenza Preparation](https://github.com/LiliiaVerbenko/Influenza-Preparation)
