@@ -38,16 +38,24 @@ Python, SQL, Tableau, Excel, C++
 
 ## Projects
 ### 1. [Rockbuster](https://github.com/LiliiaVerbenko/Rockbuster-Stealth-Data-Analysis-Project)
-*Created a strategy for the launch of a new online video service.*
+*Analyzed online video rental service customer distribution.*
+- Used SQL to querying and summarizing data, and Excel for visualizing results.
+- Identified regions with significant customer distribution and assessed metrics for company’s revenue and lifetime value.
 
 ### 2. [Instacart](https://github.com/LiliiaVerbenko/Instacart-Grocery-Basket-Analysis)
 *Analysed sales data to uncover sales patterns.*
-
+- Used Python to perform an initial data and exploratory analysis of Instacart data.
+- Analyzed order behavior of different customer groups and summarized analysis findings.
+  
 ### 3. [Global Education Disparities](https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis)
-*Explored the impact of education on economic and social development.*
+*Analyzed the impact of global educational disparities on economic development.*
+- Used Python for regression and clustering analysis on the relationship between Years of Schooling, Human Development Groups and GDP.
+- Created time-series algorithms and dashboards in Tableau to visualize problematic countries and continents.
 
 ### 4. [Influenza Preparation](https://github.com/LiliiaVerbenko/Influenza-Preparation)
 *Planned for the upcoming flu season.*
+- Performed statistical analysis in Excel adn identified the vulnerable populations at the highest risk.       
+- Examined trends in influenza and how they can be used to proactively plan for staffing needs across the country.
 
 ### 5. [GameCO](https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis)
 *Analysed Video game sales marketing.*
