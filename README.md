@@ -1,12 +1,20 @@
 # Data Analyst
 
-## Technical Skills
+## Software
 Python, SQL, Tableau, Excel, C++
 
+## Skills
+- Database Management
+- Data Cleaning
+- Statistical Modeling
+- Predictive analysis
+- Data Ethics
+- Data Visualization
+
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (May 2022)
-- M.S., Physics | The University of Texas at Dallas (December 2019)
-- B.S., Physics | The University of Texas at Dallas (May 2017)
+- Data Analytics | CareerFoundry Data Analytics Bootcamp (_2022_)
+- Computer Science | University of South Africa (_February 2022 - Present_)
+- Pharmaceutical Science | Shandong Medical University (_2012 - 2016_)
 
 ## Work Experience
 
