@@ -7,7 +7,7 @@
 
 ### Projects
 #### 1. [Rockbuster](https://github.com/LiliiaVerbenko/Rockbuster-Stealth-Data-Analysis-Project)
-Creating a strategy for the launch of a new online video service.
+*Creating a strategy for the launch of a new online video service.*
 
 #### 2. [Instacart](https://github.com/LiliiaVerbenko/Instacart-Grocery-Basket-Analysis)
 *Analysing sales data to uncover sales patterns.*
