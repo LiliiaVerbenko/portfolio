@@ -66,7 +66,7 @@ Python, SQL, Tableau, Excel, C++
 ### 6. [Pig E. Bank](https://github.com/LiliiaVerbenko/PigE-Bank)
 *Developed a prediction model for customer churn from electronic banking services using data mining.*
 - Identified leading indicators for customers likely to leave the bank.
-- Created a decision tree model
+- Created a decision tree model.
 
 ## Skills
 - English
