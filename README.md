@@ -12,8 +12,8 @@ Python, SQL, Tableau, Excel, C++
 - Data Visualization
 
 ## Education
-• Data Analytics | CareerFoundry Data Analytics Bootcamp (_2022_).<br>
-• Computer Science | University of South Africa (_2022 - Present_).<br>
+• Data Analytics | CareerFoundry Data Analytics Bootcamp (_2022_)<br>
+• Computer Science | University of South Africa (_2022 - Present_)<br>
 • Pharmaceutical Science | Shandong Medical University (_2012 - 2016_)
 
 ## Work Experience
