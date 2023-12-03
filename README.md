@@ -78,8 +78,9 @@ Python, SQL, Tableau, Excel, C++
 *Analysed video game sales marketing.*
 - Performed a descriptive analysis of a video game data set.
 - Constructed results for allocating marketing budgets.
-1. [Final Report]()
-2. [Project Brief]()  
+1. [Final Report](https://drive.google.com/file/d/1DG8KMZ996s5t4g3v2WnxE0npe0eLwrZb/view?usp=share_link)
+2. [Excel & SQL Summary](https://docs.google.com/spreadsheets/d/1BtfLLmJCk7hMw0h4Y2sehSqaGvbz41eM/edit?usp=share_link&ouid=100220627403487571764&rtpof=true&sd=true) 
+3. [Project Brief](https://drive.google.com/file/d/1eOQ5hjX5iTsLVn4p_hVDQOX7PmH00ElG/view?usp=share_link)  
 
 ### 6. [Pig E. Bank](https://github.com/LiliiaVerbenko/PigE-Bank)
 *Developed a prediction model for customer churn from electronic banking services using data mining.*
