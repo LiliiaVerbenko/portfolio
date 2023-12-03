@@ -42,6 +42,12 @@ Python, SQL, Tableau, Excel, C++
 - Used SQL to querying and summarizing data, and Excel for visualizing results.
 - Identified regions with significant customer distribution and assessed metrics for company’s revenue and lifetime value.
 
+1. [Final Report](https://github.com/LiliiaVerbenko/Rockbuster-Stealth-Data-Analysis-Project)
+2. [Excel & SQL Summary](https://docs.google.com/spreadsheets/d/1BtfLLmJCk7hMw0h4Y2sehSqaGvbz41eM/edit?usp=share_link&ouid=100220627403487571764&rtpof=true&sd=true)
+3. [GitHub](https://github.com/LiliiaVerbenko/Rockbuster-Stealth-Data-Analysis-Project)
+4. [Data Dictionary](https://drive.google.com/file/d/1HLxT_oMLJ39huBOit4eze3ipl-9SBp_I/view?usp=share_link)
+5. [Project Brief]([https://github.com/LiliiaVerbenko/Rockbuster-Stealth-Data-Analysis-Project](https://drive.google.com/file/d/1eOQ5hjX5iTsLVn4p_hVDQOX7PmH00ElG/view?usp=share_link)
+
 ### 2. [Instacart](https://github.com/LiliiaVerbenko/Instacart-Grocery-Basket-Analysis)
 *Analysed sales data to uncover sales patterns.*
 - Used Python to perform an initial data and exploratory analysis of Instacart data.
