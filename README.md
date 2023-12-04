@@ -13,13 +13,13 @@
 
 #### Education
 
-- Data Analytics | CareerFoundry Data Analytics Bootcamp (_November 2023_)<br>
+Data Analytics | CareerFoundry Data Analytics Bootcamp (_November 2023_)<br>
 ________________________________________________________________________________
 
-- Computer Science | The University of South Africa (_February 2020 - Present_)<br> 			        		
+Computer Science | The University of South Africa (_February 2020 - Present_)<br> 			        		
 ________________________________________________________________________________
 
-- Pharmaceutical Science | Shandong Medical University, China (_September 2012 - July 2016_)<br>
+Pharmaceutical Science | Shandong Medical University, China (_September 2012 - July 2016_)<br>
 ________________________________________________________________________________
 
 
