@@ -12,9 +12,18 @@
 
 
 ## Education
-- Data Analytics | CareerFoundry Data Analytics Bootcamp (_November 2023_)								       		
-- Programming & Computer Science | University of South Africa (_February 2021 - Present_)	 			        		
-- Pharmaceutical Science | Shandong Medical University (_September 2012 - July 2016_)
+- Data Analytics 
+  | CareerFoundry Data Analytics Bootcamp (_November 2023_)								       		
+  ________________________________________________________________________________
+
+- Programming & Computer Science 
+  | University of South Africa (_February 2021 - Present_)	 			        		
+  ________________________________________________________________________________
+
+- Pharmaceutical Science 
+  | Shandong Medical University (_September 2012 - July 2016_)
+  ________________________________________________________________________________
+
 
 ## Work Experience
 **Product Manager Assistant @ Svitlotechnika LTD, Ukraine (_June 2022 - Present_)**
