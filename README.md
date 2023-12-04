@@ -28,11 +28,11 @@
 
 
 ## Education
-- Data Analytics <br> | CareerFoundry Data Analytics Bootcamp (_November 2023_)<hr>
+- Data Analytics <br> | CareerFoundry Data Analytics Bootcamp (_November 2023_)<br>
 
-- Programming & Computer Science <br> | University of South Africa (_February 2021 - Present_)<hr>
+- Programming & Computer Science <br> | University of South Africa (_February 2021 - Present_)<br>
 
-- Pharmaceutical Science <br> | Shandong Medical University (_September 2012 - July 2016_)<hr>
+- Pharmaceutical Science <br> | Shandong Medical University (_September 2012 - July 2016_)<br>
 
 
 ## Work Experience
