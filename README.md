@@ -11,13 +11,12 @@
 - Data Visualization
 
 
-#### Education
-- Data Analytics | CareerFoundry Data Analytics Bootcamp (_November 2023_)
-- Computer Science | The University of South Africa (_February 2020 - Present_)
-- Pharmaceutical Science | Shandong Medical University, China (_September 2012 - July 2016_)
+## Education
+- Data Analytics | CareerFoundry Data Analytics Bootcamp (_November 2023_)								       		
+- Programming & Computer Science | University of South Africa (_February 2021 - Present_)	 			        		
+- Pharmaceutical Science | Shandong Medical University (_September 2012 - July 2016_)
 
-
-#### Work Experience
+## Work Experience
 **Product Manager Assistant @ Svitlotechnika LTD, Ukraine (_June 2022 - Present_)**
 
 _Reduced manual data extraction, increased data accuracy and standardised sales reports for product managers._
