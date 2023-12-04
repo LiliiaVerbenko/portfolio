@@ -21,6 +21,11 @@
 - Pharmaceutical Science 
   | Shandong Medical University (_September 2012 - July 2016_)
 
+## Education
+- Data Analytics <br> &#124; CareerFoundry Data Analytics Bootcamp (_November 2023_)								       		
+- Programming & Computer Science <br> &#124; University of South Africa (_February 2021 - Present_)	 			        		
+- Pharmaceutical Science <br> &#124; Shandong Medical University (_September 2012 - July 2016_)
+
 
 ## Work Experience
 **Product Manager Assistant @ Svitlotechnika LTD, Ukraine (_June 2022 - Present_)**
