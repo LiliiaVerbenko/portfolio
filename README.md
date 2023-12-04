@@ -12,7 +12,6 @@
 
 
 #### Education
-________________________________________________________________________________
 
 - Data Analytics | CareerFoundry Data Analytics Bootcamp (_November 2023_)								       		
 - Computer Science | The University of South Africa (_February 2020 - Present_)	 			        		
@@ -27,6 +26,7 @@ _Reduced manual data extraction, increased data accuracy and standardised sales 
 - Analyzing customers and products sales data in IC.
 - Preparing data for bank financing based on sales and procurement forecasts.
 - Performing ABC analysis of warehouse stock data and making inventory recommendations.
+________________________________________________________________________________
 
 **Granite and Marble Factory Manager @ Stone Slabs Marble and Granite, South Africa (_December 2020 - Present_)**
 
@@ -34,6 +34,8 @@ _Improved factory operations by introducing a system to record data, which lead 
 - Analyzing production data and planning allocation of labor, machinery, and materials resources.
 - Analyzing industry trends and market conditions to develop new products.
 - Identifying time-consuming and labor-intensive tasks, finding solutions to streamline production processes.
+
+________________________________________________________________________________
 
 **Chinese-speaking Administrative Assistant @ Dragon Oil Technologies, Ukraine (_December 2020 - Present_)**
 
