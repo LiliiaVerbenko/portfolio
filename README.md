@@ -12,9 +12,16 @@
 
 
 ## Education
+
 - Data Analytics | CareerFoundry Data Analytics Bootcamp (_November 2023_)
+________________________________________________________________________________
+
 - Computer Science | The University of South Africa (_February 2020 - Present_) 			        		
+________________________________________________________________________________
+
 - Pharmaceutical Science | Shandong Medical University, China (_September 2012 - July 2016_)
+________________________________________________________________________________
+
 
 
 ## Work Experience
