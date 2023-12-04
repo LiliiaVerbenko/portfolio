@@ -6,7 +6,7 @@
 - Database Management
 - Data Cleaning
 - Statistical Modeling
-- Predictive analysis
+- Predictive Analysis & Forecasting
 - Data Ethics
 - Data Visualization
 
@@ -14,15 +14,12 @@
 ## Education
 - Data Analytics 
   | CareerFoundry Data Analytics Bootcamp (_November 2023_)								       		
-  ________________________________________________________________________________
 
 - Programming & Computer Science 
   | University of South Africa (_February 2021 - Present_)	 			        		
-  ________________________________________________________________________________
 
 - Pharmaceutical Science 
   | Shandong Medical University (_September 2012 - July 2016_)
-  ________________________________________________________________________________
 
 
 ## Work Experience
