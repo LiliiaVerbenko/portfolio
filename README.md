@@ -2,9 +2,9 @@
 
  |**Contacts**
  
- [Email](verbenkoliliia@gmail.com)
- [LinkedIn](http://www.linkedin.com/in/liliiaverbenko)
- [Tableau](https://public.tableau.com/app/profile/liliia.verbenko/vizzes)
+ [Email](verbenkoliliia@gmail.com) <br> 
+ [LinkedIn](http://www.linkedin.com/in/liliiaverbenko) <br> 
+ [Tableau](https://public.tableau.com/app/profile/liliia.verbenko/vizzes) <br> 
  
  |**Software**
 
