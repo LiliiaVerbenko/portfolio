@@ -1,6 +1,11 @@
 # Data Analyst
 
-#### Software:  Python, SQL, Tableau, Excel, C++
+#### Software:  
+- Python
+- SQL
+- Tableau
+- C++
+- Excel
 
 #### Skills
 - Database Management
