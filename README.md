@@ -10,7 +10,7 @@
 - Data Ethics
 - Data Visualization
 
-## Education
+## Education 1
 - Data Analytics | 
     CareerFoundry Data Analytics Bootcamp (_November 2023_)								       		
 
@@ -20,7 +20,7 @@
 - Pharmaceutical Science |
     Shandong Medical University (_September 2012 - July 2016_)
 
-## Education
+## Education 2
 - Data Analytics | 
   | CareerFoundry Data Analytics Bootcamp (_November 2023_)								       		
 
@@ -30,7 +30,7 @@
 - Pharmaceutical Science |
   | Shandong Medical University (_September 2012 - July 2016_)
 
-## Education
+## Education 3
 - Data Analytics<br> | 
   | CareerFoundry Data Analytics Bootcamp (_November 2023_)								       		
 
@@ -40,7 +40,7 @@
 - Pharmaceutical Science<br> |
   | Shandong Medical University (_September 2012 - July 2016_)
 
-## Education
+## Education 4
 - Data Analytics<br> 
   | CareerFoundry Data Analytics Bootcamp (_November 2023_)								       		
 
@@ -50,7 +50,7 @@
 - Pharmaceutical Science<br> 
   | Shandong Medical University (_September 2012 - July 2016_)
 
-## Education
+## Education 5
 - Data Analytics 
   | CareerFoundry Data Analytics Bootcamp (_November 2023_)								       		
 
@@ -60,27 +60,31 @@
 - Pharmaceutical Science 
   | Shandong Medical University (_September 2012 - July 2016_)
 
-## Education
+## Education 6
 - Data Analytics <br> &#124; CareerFoundry Data Analytics Bootcamp (_November 2023_)								       		
 - Programming & Computer Science <br> &#124; University of South Africa (_February 2021 - Present_)	 			        		
 - Pharmaceutical Science <br> &#124; Shandong Medical University (_September 2012 - July 2016_)
 
 
-## Education
+## Education 7
+
 • Data Analytics <br> |           CareerFoundry Data Analytics Bootcamp<br> (_November 2023_)<br>
 
 • Programming & Computer Science <br> |           University of South Africa<br> (_February 2021 - Present_)<br>
 
 • Pharmaceutical Science <br> |           Shandong Medical University<br> (_September 2012 - July 2016_)<br>
 
-## Education
-• Data Analytics <br> |           CareerFoundry Data Analytics Bootcamp (_November 2023_)<br>
+
+
+
+## Education 8
+• Data Analytics                 <br> |           CareerFoundry Data Analytics Bootcamp (_November 2023_)<br>
 
 • Programming & Computer Science <br> |           University of South Africa (_February 2021 - Present_)<br>
 
 • Pharmaceutical Science <br> |           Shandong Medical University (_September 2012 - July 2016_)<br>
 
-## Education
+## Education 9
 
 • Data Analytics | CareerFoundry Data Analytics Bootcamp (_November 2023_)<br>
 
@@ -88,7 +92,7 @@
 
 • Pharmaceutical Science | Shandong Medical University (_September 2012 - July 2016_)<br>
 
-## Education
+## Education 10
 
  Data Analytics | CareerFoundry Data Analytics Bootcamp (_November 2023_)<br>
 
@@ -96,7 +100,7 @@
 
  Pharmaceutical Science | Shandong Medical University (_September 2012 - July 2016_)<br>
 
-## Education
+## Education 11
 
  Data   <br>Analytics     |   CareerFoundry Data Analytics Bootcamp<br>   (_November 2023_)<br>
 
@@ -106,24 +110,24 @@
 
 
 
-## Education
+## Education 12
 - Data Analytics <br> &#124; CareerFoundry Data Analytics Bootcamp (_November 2023_)								       		
 - Programming & Computer Science <br> &#124; University of South Africa (_February 2021 - Present_)	 			        		
 - Pharmaceutical Science <br> &#124; Shandong Medical University (_September 2012 - July 2016_)
 
 
-## Education
+## Education 13
   Data Analytics | CareerFoundry Data Analytics Bootcamp (_November 2023_)								       		
   Programming & Computer Science	| The University of South Africa (_February 2021 - Present_)	 			        		
   Pharmaceutical Science | Shandong Medical University, China (_September 2012 - July 2016_)
 
 
-## Education
+## Education 14
 - Data Analytics <span style="color:white;"> - </span> CareerFoundry Data Analytics Bootcamp (_November 2023_)
 - Programming & Computer Science <span style="color:white;"> - </span> The University of South Africa (_February 2021 - Present_)
 - Pharmaceutical Science <span style="color:white;"> - </span> Shandong Medical University, China (_September 2012 - July 2016_)
 
-## Education
+## Education 15
 - Data Analytics <span style="color:white;"> - </span> CareerFoundry Data Analytics Bootcamp (_November 2023_)<br>
 - Programming & Computer Science <span style="color:white;"> - </span> The University of South Africa (_February 2021 - Present_)<br>
 - Pharmaceutical Science <span style="color:white;"> - </span> Shandong Medical University, China (_September 2012 - July 2016_)<br>
@@ -132,26 +136,26 @@
 
 
 
-## Education
+## Education 16
 - Data Analytics | CareerFoundry Data Analytics Bootcamp (_November 2023_)<br style="border-color:white;">								       		
 - Programming & Computer Science	| The University of South Africa (_February 2021 - Present_)<br style="border-color:white;">	 			        		
 - Pharmaceutical Science | Shandong Medical University, China (_September 2012 - July 2016_)<br style="border-color:white;">
 
-## Education
+## Education 17
 - Data Analytics <br> <span style="color:white;"> • </span> | CareerFoundry Data Analytics Bootcamp (_November 2023_)<br>
 
 - Programming & Computer Science <br> <span style="color:white;"> • </span> | University of South Africa (_February 2021 - Present_)<br>
 
 - Pharmaceutical Science <br> <span style="color:white;"> • </span> | Shandong Medical University (_September 2012 - July 2016_)<br>
 
-## Education
+## Education 18
 - Data Analytics <br> <span style="color:white;"> • </span> CareerFoundry Data Analytics Bootcamp (_November 2023_)<br>
 
 - Programming & Computer Science <br> <span style="color:white;"> • </span> University of South Africa (_February 2021 - Present_)<br>
 
 - Pharmaceutical Science <br> <span style="color:white;"> • </span> Shandong Medical University (_September 2012 - July 2016_)<br>
 
-## Education
+## Education 19
 - Data Analytics <br> <span style="color:white;">•</span> CareerFoundry Data Analytics Bootcamp (_November 2023_)<br>
 
 - Programming & Computer Science <br> <span style="color:white;">•</span> University of South Africa (_February 2021 - Present_)<br>
@@ -159,14 +163,14 @@
 - Pharmaceutical Science <br> <span style="color:white;">•</span> Shandong Medical University (_September 2012 - July 2016_)<br>
 
 
-## Education
+## Education 20
 - Data Analytics <br> <span style="color:white;">•</span> | CareerFoundry Data Analytics Bootcamp (_November 2023_)<br>
 
 - Programming & Computer Science <br> <span style="color:white;">•</span> | University of South Africa (_February 2021 - Present_)<br>
 
 - Pharmaceutical Science <br> <span style="color:white;">•</span> | Shandong Medical University (_September 2012 - July 2016_)<br>
 
-## Education
+## Education 21
 - Data Analytics <span style="color:white;"> • </span> CareerFoundry Data Analytics Bootcamp (_November 2023_)
 - Programming & Computer Science <span style="color:white;"> • </span> The University of South Africa (_February 2021 - Present_)
 - Pharmaceutical Science <span style="color:white;"> • </span> Shandong Medical University, China (_September 2012 - July 2016_)
@@ -174,7 +178,7 @@
 
 
 
-## Education
+## Education 22
 - Data Analytics <br> <span style="color:white;">|</span> CareerFoundry Data Analytics Bootcamp (_November 2023_)<br>
 
 - Programming & Computer Science <br> <span style="color:white;">|</span> University of South Africa (_February 2021 - Present_)<br>
@@ -182,17 +186,39 @@
 - Pharmaceutical Science <br> <span style="color:white;">|</span> Shandong Medical University (_September 2012 - July 2016_)<br>
 
 
-## Education
+## Education 23
 - Data Analytics | CareerFoundry Data Analytics Bootcamp (_November 2023_)
 - Programming & Computer Science	| The University of South Africa (_February 2021 - Present_)
 - Pharmaceutical Science | Shandong Medical University, China (_September 2012 - July 2016_)
 
-## Education
-- Data Analytics <span style="color:white;"> • </span> CareerFoundry Data Analytics Bootcamp (_November 2023_)
-- Programming & Computer Science <span style="color:white;"> • </span> The University of South Africa (_February 2021 - Present_)
-- Pharmaceutical Science <span style="color:white;"> • </span> Shandong Medical University, China (_September 2012 - July 2016_)
+## Education 24
+- Data Analytics <span style="color:white;"> • </span> | CareerFoundry Data Analytics Bootcamp (_November 2023_)
+- Programming & Computer Science <span style="color:white;"> • </span> | The University of South Africa (_February 2021 - Present_)
+- Pharmaceutical Science <span style="color:white;"> • </span> | Shandong Medical University, China (_September 2012 - July 2016_)
 
 
+## Education 25
+- Data Analytics <span style="color:white;">•</span> | CareerFoundry Data Analytics Bootcamp (_November 2023_)
+- Programming & Computer Science <span style="color:white;">•</span> | The University of South Africa (_February 2021 - Present_)
+- Pharmaceutical Science <span style="color:white;">•</span> | Shandong Medical University, China (_September 2012 - July 2016_)
+
+
+## Education 26
+- Data Analytics <span style="color:white;"> - </span> | CareerFoundry Data Analytics Bootcamp (_November 2023_)
+- Programming & Computer Science <span style="color:white;"> - </span> | The University of South Africa (_February 2021 - Present_)
+- Pharmaceutical Science <span style="color:white;"> - </span> | Shandong Medical University, China (_September 2012 - July 2016_)
+
+
+## Education 27
+- Data Analytics <span style="color:white;">-</span> | CareerFoundry Data Analytics Bootcamp (_November 2023_)
+- Programming & Computer Science <span style="color:white;">-</span> | The University of South Africa (_February 2021 - Present_)
+- Pharmaceutical Science <span style="color:white;">-</span> | Shandong Medical University, China (_September 2012 - July 2016_)
+
+
+## Education 28
+- Data Analytics <span style="color:white;">-</span>  CareerFoundry Data Analytics Bootcamp (_November 2023_)
+- Programming & Computer Science <span style="color:white;">-</span>  The University of South Africa (_February 2021 - Present_)
+- Pharmaceutical Science <span style="color:white;">-</span>  Shandong Medical University, China (_September 2012 - July 2016_)
 
 ## Work Experience
 **Product Manager Assistant @ Svitlotechnika LTD, Ukraine (_June 2022 - Present_)**
