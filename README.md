@@ -28,7 +28,8 @@
 _Reduced manual data extraction, increased data accuracy and standardised sales reports for product managers._
 - Analyzing customers and products sales data in IC.
 - Preparing data for bank financing based on sales and procurement forecasts.
-- Performing ABC analysis of warehouse stock data and making inventory recommendations. | 
+- Performing ABC analysis of warehouse stock data and making inventory recommendations.
+   | 
 
 **Granite and Marble Factory Manager @ Stone Slabs Marble and Granite, South Africa (_December 2020 - Present_)**
 
