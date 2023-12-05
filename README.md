@@ -3,8 +3,10 @@
 
    View my **[Full Portfolio](https://drive.google.com/file/d/1RDwM_kyezN-YhzXx5t4tUw6onsNJFlpz/view?usp=share_link)** <br>
    View my **[CV](https://drive.google.com/file/d/1IATQkcp626gNH2bUM4YA_3GbtT3dddVR/view?usp=share_link)**
+   
+------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 
- |**Software**
+### Software
 
 - Python
 - SQL
@@ -12,7 +14,7 @@
 - C++
 - Excel
 
- |**Skills**
+### Skills
 
 - Database Management
 - Data Cleaning
