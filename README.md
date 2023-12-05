@@ -1,6 +1,7 @@
 # Data Analyst
 
- |**Software**  
+ |**Software**
+
 - Python
 - SQL
 - Tableau
@@ -8,6 +9,7 @@
 - Excel
 
  |**Skills**
+
 - Database Management
 - Data Cleaning
 - Statistical Modeling
