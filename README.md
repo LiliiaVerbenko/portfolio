@@ -77,6 +77,12 @@
 - Programming & Computer Science	| The University of South Africa (_February 2021 - Present_)<br style="border-color:white;">	 			        		
 - Pharmaceutical Science | Shandong Medical University, China (_September 2012 - July 2016_)<br style="border-color:white;">
 
+## Education
+- Data Analytics <br> <span style="color:white;">|</span> CareerFoundry Data Analytics Bootcamp (_November 2023_)<br>
+
+- Programming & Computer Science <br> <span style="color:white;">|</span> University of South Africa (_February 2021 - Present_)<br>
+
+- Pharmaceutical Science <br> <span style="color:white;">|</span> Shandong Medical University (_September 2012 - July 2016_)<br>
 
 
 
