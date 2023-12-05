@@ -30,7 +30,7 @@ _Reduced manual data extraction, increased data accuracy and standardised sales 
 - Preparing data for bank financing based on sales and procurement forecasts.
 - Performing ABC analysis of warehouse stock data and making inventory recommendations.
 
----------
+ | 
 
 **Granite and Marble Factory Manager @ Stone Slabs Marble and Granite, South Africa (_December 2020 - Present_)**
 
