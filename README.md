@@ -20,9 +20,7 @@ ________________________________________________________________________________
 
 - **Pharmaceutical Science** <br> <span style="color:white;"> • </span> Shandong Medical University, China (_September 2012 - July 2016_)<br>
 
-________________________________________________________________________________
-
-________________________________________________________________________________
+------------------------------------------------------------------------------
 
 ## Work Experience
 **Product Manager Assistant @ Svitlotechnika LTD, Ukraine (_June 2022 - Present_)**
@@ -50,10 +48,7 @@ _Directed the negotiation process and established a cross-cultural partnership, 
 - Enabling meetings and clear communication by facilitating real-time interpretation services between the headquarters and stakeholders.
 - Optimising and managing logistical arrangements and budget for foreign delegations.
 
-
-________________________________________________________________________________
-
-________________________________________________________________________________
+------------------------------------------------------------------------------
 
 ## Projects
 ### 1. [Rockbuster](https://github.com/LiliiaVerbenko/Rockbuster-Stealth-Data-Analysis-Project)
@@ -116,9 +111,8 @@ ________________________________________________________________________________
 1. [Excel Report](https://docs.google.com/spreadsheets/d/1d_s2nApQ_hfkFWQXpUTyPEiwo-iD0dRi/edit?usp=share_link&ouid=100642711360793746419&rtpof=true&sd=true)
 2. [Project Brief](https://drive.google.com/file/d/1Tgcc-wUDWjao13cy0ZZzu5xrkGb_BSGe/view?usp=share_link)
 
-________________________________________________________________________________
 
-________________________________________________________________________________
+------------------------------------------------------------------------------
 
 ## Languages
 - English
