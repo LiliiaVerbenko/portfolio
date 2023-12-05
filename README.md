@@ -53,7 +53,7 @@
 
 ## Education
 
- Data <br>Analytics | CareerFoundry Data Analytics Bootcamp<br> (_November 2023_)<br>
+ Data   <br>Analytics   | CareerFoundry Data Analytics Bootcamp<br>   (_November 2023_)<br>
 
  Programming & <br>Computer Science | University of South Africa<br> (_February 2021 - Present_)<br>
 
