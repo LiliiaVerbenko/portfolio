@@ -1,7 +1,7 @@
 ## Data Analyst
 
    View my **[Full Portfolio](https://drive.google.com/file/d/1RDwM_kyezN-YhzXx5t4tUw6onsNJFlpz/view?usp=share_link)** <br>
-   View my **[CV](https://drive.google.com/file/d/1IATQkcp626gNH2bUM4YA_3GbtT3dddVR/view?usp=share_link)**
+ | View my **[CV](https://drive.google.com/file/d/1IATQkcp626gNH2bUM4YA_3GbtT3dddVR/view?usp=share_link)**
 
  |**Software**
 
@@ -23,7 +23,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 
 
-## Education
+### Education
 - **Data Analytics** <br> <span style="color:white;"> • </span> CareerFoundry Data Analytics Bootcamp, Germany (_November 2023_)<br>
 
 - **Programming & Computer Science** <br> <span style="color:white;"> • </span> University of South Africa (_February 2021 - Present_)<br>
@@ -32,7 +32,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 
-## Work Experience
+### Work Experience
 
  |**Product Manager Assistant** <br> Svitlotechnika LTD, Ukraine (_September 2022 - Ferbuary 2023_)
  
@@ -57,7 +57,7 @@ _Directed the negotiation process and established a cross-cultural partnership, 
 
 ---------
 
-## Projects
+### Projects
 
  |**1. [Rockbuster](https://github.com/LiliiaVerbenko/Rockbuster-Stealth-Data-Analysis-Project)**
  
@@ -124,7 +124,7 @@ _Directed the negotiation process and established a cross-cultural partnership, 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 
-## Languages
+### Languages
 - English
 - Chinese
 - Ukrainian
