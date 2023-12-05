@@ -24,22 +24,19 @@
 
 ## Work Experience
 
- | **Product Manager Assistant** <br> Svitlotechnika LTD, Ukraine (_June 2022 - Present_)
-
+ |**Product Manager Assistant** <br> Svitlotechnika LTD, Ukraine (_June 2022 - Present_)
 _Reduced manual data extraction, increased data accuracy and standardised sales reports for product managers._
 - Analyzing customers and products sales data in IC.
 - Preparing data for bank financing based on sales and procurement forecasts.
 - Performing ABC analysis of warehouse stock data and making inventory recommendations. 
 
- | **Granite and Marble Factory Manager** <br> Stone Slabs Marble & Granite, South Africa (_December 2020 - Present_)
-
+ |**Granite and Marble Factory Manager** <br> Stone Slabs Marble & Granite, South Africa (_December 2020 - Present_)
 _Improved factory operations by introducing a system to record data, which lead to better decision making for the business._
 - Analyzing production data and planning allocation of labor, machinery, and materials resources.
 - Analyzing industry trends and market conditions to develop new products.
 - Identifying time-consuming and labor-intensive tasks, finding solutions to streamline production processes.
 
- | **Chinese-speaking Administrative Assistant** <br> Dragon Oil Technologies, Ukraine (_December 2020 - Present_)
-
+ |**Chinese-speaking Administrative Assistant** <br> Dragon Oil Technologies, Ukraine (_December 2020 - Present_)
 _Directed the negotiation process and established a cross-cultural partnership, resulting in the successful closure of the oil-well maintenance contract._
 - Analyzing government and company regulatory documents, ensuring compliance with legal standards and contractual obligations.
 - Enabling meetings and clear communication by facilitating real-time interpretation services between the headquarters and stakeholders.
