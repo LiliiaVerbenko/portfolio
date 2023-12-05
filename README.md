@@ -22,29 +22,6 @@
     Shandong Medical University, China   <br>(_September 2012 - July 2016_)
 
   
-## Education 1c
-- Data Analytics  <br> 
-    CareerFoundry Data Analytics Bootcamp, Germany   <br>(_November 2023_)								       		
-
-- Programming & Computer Science  <br> 
-    University of South Africa   <br>(_February 2021 - Present_)	 			        		
-
-- Pharmaceutical Science  <br>
-    Shandong Medical University, China   <br>(_September 2012 - July 2016_)
-
-## Education 1b
-- #### Data Analytics  <br> 
-    CareerFoundry Data Analytics Bootcamp   <br>(_November 2023_)								       		
-
-- #### Programming & Computer Science  <br> 
-    University of South Africa   <br>(_February 2021 - Present_)	 			        		
-
-- #### Pharmaceutical Science  <br>
-    Shandong Medical University   <br>(_September 2012 - July 2016_)
-
-
-
-
 
 ## Education 18
 - **Data Analytics** <br> <span style="color:white;"> • </span> CareerFoundry Data Analytics Bootcamp, Germany (_November 2023_)<br>
