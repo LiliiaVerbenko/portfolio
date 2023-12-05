@@ -1,5 +1,11 @@
 # Data Analyst
 
+ |**Contacts**
+ 
+ [Email](verbenkoliliia@gmail.com)
+ [LinkedIn](http://www.linkedin.com/in/liliiaverbenko)
+ [Tableau](https://public.tableau.com/app/profile/liliia.verbenko/vizzes)
+ 
  |**Software**
 
 - Python
